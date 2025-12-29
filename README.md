@@ -1,7 +1,9 @@
 Overview
+
 This repository is a collection of Python scripts and notebooks focused on data handling, cleaning, transformation, and analysis. 
 It is designed for learners and developers who want to strengthen their data manipulation and preprocessing skills for real-world applications and machine learning projects.
-Features
+
+Features:
 
 Data Cleaning: Handling missing values, duplicates, and inconsistent data
 
@@ -13,12 +15,8 @@ Data Visualization: Quick exploratory data analysis with Python libraries
 
 Practical Examples: Real-world datasets and problem-solving exercises
 
-Libraries
-
+Libraries:
 Python
-
 Pandas
-
 NumPy
-
 Matplotlib & Seaborn
